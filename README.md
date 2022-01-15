@@ -1,12 +1,10 @@
 # AI_Radio
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A new Flutter one day project built on Alan AI, I challenged myself to build it in a day, cause I felt Alan AI exciting.
 This is just a inspired project from the CodePur.
 
 ## Preview
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
     <img src="assets/ai_radio.png"  height="800" alt="Alan AI Radio App">
@@ -19,11 +17,9 @@ This is just a inspired project from the CodePur.
 </p>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Found this project useful?
 
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ✍🏽 Author: NSVEGUR
