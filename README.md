@@ -12,7 +12,7 @@
   <br/>
 
 
-A new Flutter one day project built on Alan AI, I challenged myself to build it in a day, cause I felt Alan AI exciting.
+A self challenge one day flutter project on radio built on Alan AI.
 This is just a inspired project from the CodePur.
 
 ## 
